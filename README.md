@@ -1,2 +1,2 @@
 # Victoria3-Reworked
-Victoria3-Reworked by CheeZeDark(Rikko Matsumato)
+It is Reworked Scripts for Victoria 3!!!(WIP!!!)
